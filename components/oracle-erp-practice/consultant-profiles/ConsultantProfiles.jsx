@@ -39,7 +39,7 @@ const criteria = [
     icon: Code2,
     title: "Technical depth",
     description:
-      "RICEWF, CEMLI, OIC, SOA Suite, OAF, BI Publisher, OTBI, FRS, Smart View, data migration.",
+      "RICEWF, CEMLI, OIC, OAF, BI Publisher, OTBI, FRS, Smart View, FDBI, ADFDI, SOA Suite.",
   },
   {
     icon: GraduationCap,
