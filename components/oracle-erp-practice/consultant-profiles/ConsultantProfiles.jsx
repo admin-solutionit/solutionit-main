@@ -33,7 +33,7 @@ const criteria = [
     icon: Settings2,
     title: "Functional depth",
     description:
-      "Setups, configuration, data conversion, migration, integration, and reporting.",
+      "Business Process Analysis and Design, Requirement Workshops, System Configuration, Gap Analysis, Functional Testing, User Adoption and Training.",
   },
   {
     icon: Code2,
